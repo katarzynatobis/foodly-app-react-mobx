@@ -1,0 +1,35 @@
+{
+  "name": "foodly-app-react-mobx",
+  "version": "1.0.0",
+  "description": "Foodly Client App refactor with react and mobx",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katawes/foodly-app-react-mobx.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "foodsharing",
+    "mobx"
+  ],
+  "author": "Katarzyna Tobiś <tobis.katarzyna@gmail.com> (http://github.com/katawes)",
+  "license": "MIT",
+  "homepage": "http://",
+  "devDependencies": {
+    "@types/react-dom": "^16.0.9",
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.1.3",
+    "webpack": "^4.22.0",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "mobx": "^5.5.2",
+    "mobx-react": "^5.3.5",
+    "mobx-react-devtools": "^6.0.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
